@@ -22,10 +22,11 @@ class Solution {
                 if(i%2 == 1)
                 {
                     answer[cnt] = i;
+                    cnt++;
                 }
                 else
                 {
-                    cnt++;
+                    
                 }
             }
         
